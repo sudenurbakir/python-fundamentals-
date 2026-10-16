@@ -2,7 +2,7 @@
 # Python Fundamentals - Ders 01
 # print() komutu ekrana bilgi yazdırır.
 
-print("Merhaba Sudenur!")
+print("Merhaba")
 print("Python öğrenmeye başladım.")
 
 # Python matematiksel işlemler de yapabilir.
